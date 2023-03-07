@@ -22,10 +22,10 @@
 
 # 📊 GitHub Stats:
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manab-Debnath&theme=dark&hide_border=false&include_all_commits=false&count_private=falsen" />
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manab-Debnath&theme=dark&hide_border=false&include_all_commits=false&count_private=falsen" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Manab-Debnath&theme=dark&hide_border=false" /></div>
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Manab-Debnath&theme=dark&hide_border=false" /></div>
 
 
 
