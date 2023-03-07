@@ -21,11 +21,9 @@
 
 
 # 📊 GitHub Stats:
-<div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Manab-Debnath&theme=dark&hide_border=false&include_all_commits=false&count_private=falsen" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Manab-Debnath&theme=dark&hide_border=false" /></div>
+![](https://github-readme-stats.vercel.app/api?username=Manab-Debnath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manab-Debnath&theme=dark&hide_border=false)<br/> <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manab-Debnath&theme=dark&hide_border=false&align=center&include_all_commits=false&count_private=false&layout=compact)
 
 
 
