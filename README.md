@@ -17,11 +17,11 @@
     <a href="mailto:manab_debnath@outlook.com">
       <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
     </a>
-    <a href="https://discord.gg/8026" target="_blank">
+    <a href="https://discord.com/users/1020642001236017235" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="https://stackoverflow.com/users/21217456" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <a href="https://x.com/manab_sde" target="_blank">
+      <img src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray" alt="X" />
     </a>
   </p>
 
